@@ -5,6 +5,7 @@
 - 🤷‍♂️ Primary coding language - Java
 &nbsp;&nbsp;&nbsp;
 
+[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashiishjn)](https://github.com/aashiishjn/github-readme-stats)
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=111&logoColor=AAA&style=flat-square&link=)
