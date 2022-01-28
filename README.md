@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 📫 How to reach me : **[Email me anything](mailto:ashishjain4365@gmail.com)**
+- 📫 Connect with me : **[LinkedIn](https://www.linkedin.com/in/aashishjn/)**
+- 🤷‍♂️ Primary coding language - Java
+- 
 <!--
 **ashiishjn/ashiishjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
