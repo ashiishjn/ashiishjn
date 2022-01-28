@@ -5,8 +5,8 @@
 - 🤷‍♂️ Primary coding language - Java
 
 ## My Github Statistics 🧐
-![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ashiishjn&layout=compact&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashiishjn&layout=compact&theme=tokyonight)](https://git.io/streak-stats)
+[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashiishjn&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true)](https://github.com/ashiishjn/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashiishjn&layout=compact&theme=highcontrast)](https://git.io/streak-stats)
 
 ## My Top Languages ✍✍
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiishjn&theme=chartreuse-dark&langs_count=10)](https://github.com/ashiishjn)
