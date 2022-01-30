@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently exploring **HTML and CSS**
-- 💬 Ask me about **anything related to problem solving, data structures**
+- 💬 Ask me about **anything related to problem solving and data structures**
 - 📫 How to reach me **ashishjain4365@gmail.com**
 - 🤷‍♂️ Primary coding language - Java
 
