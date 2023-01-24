@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashish Jain</h1>
-<h3 align="center">An aspiring frontend developer from India</h3>
+<h3 align="center">An aspiring Android Developer from India</h3>
 
 
-- 🌱 I’m currently exploring **HTML and CSS**
-- 💬 Ask me about **anything related to problem solving and data structures**
-- 📫 How to reach me **ashishjain4365@gmail.com**
+- 🌱 I’m currently an **Android Developer** intern at Bajaj Financial Services
+- 📫 You can email me at **ashishjain4365@gmail.com** and I'll try to get back to you as soon as possible
 - 🤷‍♂️ Primary coding language - Java
 
 
